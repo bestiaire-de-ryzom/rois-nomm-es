@@ -1,0 +1,29 @@
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\tableur de ryzom.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.DnAlphabetique.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.DnRaces.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.DrAlphabetique.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.DrRaces.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FnAlphabetique.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FnRaces.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FrAlphabetique.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.FrRaces.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.JnAlphabetique.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.JnRaces.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.JrAlphabetique.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.JrRaces.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.LnAlphabetique.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.LnRaces.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.LrAlphabetique.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.LrRaces.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Menu.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.PnAlphabetique.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.PnRaces.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.PrAlphabetique.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.PrRaces.resources
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\tableur de ryzom.csproj.GenerateResource.Cache
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Utilisateur\Documents\Visual Studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb

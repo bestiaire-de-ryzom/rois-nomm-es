@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{59DA0592-1635-4603-B2DB-F821940AACB8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication5</RootNamespace>
+    <AssemblyName>WindowsFormsApplication5</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DnAlphabetique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DnAlphabetique.Designer.cs">
+      <DependentUpon>DnAlphabetique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DnRaces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DnRaces.Designer.cs">
+      <DependentUpon>DnRaces.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DrAlphabetique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DrAlphabetique.Designer.cs">
+      <DependentUpon>DrAlphabetique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DrRaces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DrRaces.Designer.cs">
+      <DependentUpon>DrRaces.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FnAlphabetique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FnAlphabetique.Designer.cs">
+      <DependentUpon>FnAlphabetique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FnRaces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FnRaces.Designer.cs">
+      <DependentUpon>FnRaces.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrAlphabetique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrAlphabetique.Designer.cs">
+      <DependentUpon>FrAlphabetique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrRaces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrRaces.Designer.cs">
+      <DependentUpon>FrRaces.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JnAlphabetique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JnAlphabetique.Designer.cs">
+      <DependentUpon>JnAlphabetique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JnRaces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JnRaces.Designer.cs">
+      <DependentUpon>JnRaces.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JrAlphabetique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JrAlphabetique.Designer.cs">
+      <DependentUpon>JrAlphabetique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JrRaces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JrRaces.Designer.cs">
+      <DependentUpon>JrRaces.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LnAlphabetique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LnAlphabetique.Designer.cs">
+      <DependentUpon>LnAlphabetique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LnRaces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LnRaces.Designer.cs">
+      <DependentUpon>LnRaces.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LrAlphabetique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LrAlphabetique.Designer.cs">
+      <DependentUpon>LrAlphabetique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LrRaces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LrRaces.Designer.cs">
+      <DependentUpon>LrRaces.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PnAlphabetique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PnAlphabetique.Designer.cs">
+      <DependentUpon>PnAlphabetique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PnRaces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PnRaces.Designer.cs">
+      <DependentUpon>PnRaces.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrAlphabetique.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrAlphabetique.Designer.cs">
+      <DependentUpon>PrAlphabetique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PrRaces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrRaces.Designer.cs">
+      <DependentUpon>PrRaces.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DnAlphabetique.resx">
+      <DependentUpon>DnAlphabetique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DnRaces.resx">
+      <DependentUpon>DnRaces.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DrAlphabetique.resx">
+      <DependentUpon>DrAlphabetique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DrRaces.resx">
+      <DependentUpon>DrRaces.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FnAlphabetique.resx">
+      <DependentUpon>FnAlphabetique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FnRaces.resx">
+      <DependentUpon>FnRaces.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrAlphabetique.resx">
+      <DependentUpon>FrAlphabetique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrRaces.resx">
+      <DependentUpon>FrRaces.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JnAlphabetique.resx">
+      <DependentUpon>JnAlphabetique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JnRaces.resx">
+      <DependentUpon>JnRaces.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JrAlphabetique.resx">
+      <DependentUpon>JrAlphabetique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JrRaces.resx">
+      <DependentUpon>JrRaces.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LnAlphabetique.resx">
+      <DependentUpon>LnAlphabetique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LnRaces.resx">
+      <DependentUpon>LnRaces.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LrAlphabetique.resx">
+      <DependentUpon>LrAlphabetique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LrRaces.resx">
+      <DependentUpon>LrRaces.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PnAlphabetique.resx">
+      <DependentUpon>PnAlphabetique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PnRaces.resx">
+      <DependentUpon>PnRaces.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrAlphabetique.resx">
+      <DependentUpon>PrAlphabetique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="PrRaces.resx">
+      <DependentUpon>PrRaces.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
